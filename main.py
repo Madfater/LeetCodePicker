@@ -64,7 +64,7 @@ if __name__ == "__main__":
             ):
                 num -= 1
                 problems.append(
-                    (question["title"], problemTitle, question["questionFrontendId"])
+                    (question["title"], problemTitle, question["questionFrontendId"], difficulty)
                 )
                 if num == 0:
                     problemsList.append(problems)
@@ -75,8 +75,8 @@ if __name__ == "__main__":
     content = r[0]
     content += f"## {datetime.datetime.today().strftime('%Y%m%d')}\n\n"
 
-    for difficulty in problemsList:
-        for title, titleSlug, questionId in difficulty:
+    for problems in problemsList:
+        for title, titleSlug, questionId, difficulty in problems:
             content += f"- [{questionId}. {title}](https://leetcode.com/problems/{titleSlug}/)\n"
             doneList.append("\n" + title)
 
@@ -93,9 +93,9 @@ if __name__ == "__main__":
 
     embedsFields = []
 
-    for difficulty in problemsList:
-        for title, titleSlug, questionId in difficulty:
-            desc = { "name": f"{questionId}. {title}", "value": f"[](https://leetcode.com/problems/{titleSlug})"}
+    for problems in problemsList:
+        for title, titleSlug, questionId, difficulty in problems:
+            desc = { "name": f"Difficulty: {difficulty}", "value": f"[{questionId}. {title}](https://leetcode.com/problems/{titleSlug})"}
             embedsFields.append(desc)
 
     data = {
