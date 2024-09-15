@@ -318,3 +318,6 @@ Super Ugly Number
 Count Prefixes of a Given String
 Subtract the Product and Sum of Digits of an Integer
 Longest Non-decreasing Subarray From Two Arrays
+Subarrays Distinct Element Sum of Squares I
+Minimum Difference Between Highest and Lowest of K Scores
+Vowels Game in a String
