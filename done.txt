@@ -321,3 +321,6 @@ Longest Non-decreasing Subarray From Two Arrays
 Subarrays Distinct Element Sum of Squares I
 Minimum Difference Between Highest and Lowest of K Scores
 Vowels Game in a String
+Find the Highest Altitude
+Special Array I
+Minimum Operations to Write the Letter Y on a Grid
