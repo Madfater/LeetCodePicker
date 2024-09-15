@@ -309,3 +309,6 @@ Longest Palindromic Subsequence
 Minimum String Length After Removing Substrings
 Largest Perimeter Triangle
 Custom Sort String
+A Number After a Double Reversal
+Binary Prefix Divisible By 5
+Sum of Mutated Array Closest to Target
