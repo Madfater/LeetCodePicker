@@ -312,3 +312,6 @@ Custom Sort String
 A Number After a Double Reversal
 Binary Prefix Divisible By 5
 Sum of Mutated Array Closest to Target
+Lexicographically Smallest String After a Swap
+Clear Digits
+Super Ugly Number
