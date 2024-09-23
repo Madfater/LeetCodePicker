@@ -5,3 +5,8 @@ Maximum Number of Words Found in Sentences
 Minimum Sum of Mountain Triplets I
 Number of Good Ways to Split a String
 Find All Good Indices
+Count Pairs Of Similar Strings
+Palindrome Number
+Row With Maximum Ones
+Detect Squares
+Filter Restaurants by Vegan-Friendly, Price and Distance
