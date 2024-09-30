@@ -10,3 +10,8 @@ Palindrome Number
 Row With Maximum Ones
 Detect Squares
 Filter Restaurants by Vegan-Friendly, Price and Distance
+Count the Number of Incremovable Subarrays I
+Maximum Score After Splitting a String
+Rearrange Characters to Make Target String
+Find All Lonely Numbers in the Array
+Numbers With Same Consecutive Differences
