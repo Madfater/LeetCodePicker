@@ -15,3 +15,8 @@ Maximum Score After Splitting a String
 Rearrange Characters to Make Target String
 Find All Lonely Numbers in the Array
 Numbers With Same Consecutive Differences
+Maximum Product of Two Elements in an Array
+Number Of Rectangles That Can Form The Largest Square
+Destination City
+Partition Equal Subset Sum
+Find the Number of Good Pairs II
