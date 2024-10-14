@@ -20,3 +20,8 @@ Number Of Rectangles That Can Form The Largest Square
 Destination City
 Partition Equal Subset Sum
 Find the Number of Good Pairs II
+Minimum Absolute Difference
+Number of Employees Who Met the Target
+Shortest Distance to a Character
+Maximize the Profit as the Salesman
+Max Area of Island
