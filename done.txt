@@ -25,3 +25,8 @@ Number of Employees Who Met the Target
 Shortest Distance to a Character
 Maximize the Profit as the Salesman
 Max Area of Island
+Remove All Adjacent Duplicates In String
+Set Mismatch
+Maximum 69 Number
+Multiply Strings
+Find Players With Zero or One Losses
