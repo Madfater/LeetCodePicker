@@ -30,3 +30,8 @@ Set Mismatch
 Maximum 69 Number
 Multiply Strings
 Find Players With Zero or One Losses
+Isomorphic Strings
+Sorting the Sentence
+Climbing Stairs
+H-Index
+Minimum Number of Operations to Make Array XOR Equal to K
