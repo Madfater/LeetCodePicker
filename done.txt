@@ -35,3 +35,8 @@ Sorting the Sentence
 Climbing Stairs
 H-Index
 Minimum Number of Operations to Make Array XOR Equal to K
+Rectangle Overlap
+Maximum Value of an Ordered Triplet I
+X of a Kind in a Deck of Cards
+Most Frequent Prime
+Two Sum II - Input Array Is Sorted
