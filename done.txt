@@ -50,3 +50,8 @@ Latest Time by Replacing Hidden Digits
 Design Neighbor Sum Service
 Partition String Into Substrings With Values at Most K
 Iterator for Combination
+Find First Palindromic String in the Array
+Minimum Moves to Convert String
+Count Elements With Strictly Smaller and Greater Elements 
+Linked List Random Node
+Sum of Mutated Array Closest to Target
