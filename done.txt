@@ -55,3 +55,8 @@ Minimum Moves to Convert String
 Count Elements With Strictly Smaller and Greater Elements 
 Linked List Random Node
 Sum of Mutated Array Closest to Target
+Find Closest Number to Zero
+Find Smallest Letter Greater Than Target
+Check Whether Two Strings are Almost Equivalent
+Design Memory Allocator
+Subarray Sums Divisible by K
