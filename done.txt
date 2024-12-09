@@ -60,3 +60,8 @@ Find Smallest Letter Greater Than Target
 Check Whether Two Strings are Almost Equivalent
 Design Memory Allocator
 Subarray Sums Divisible by K
+Toeplitz Matrix
+Crawler Log Folder
+Roman to Integer
+Score of Parentheses
+Remove Duplicates from Sorted List II
